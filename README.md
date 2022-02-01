@@ -1,5 +1,5 @@
 # lstm-classical-piano
-Making AI compose piano
+Making AI compose piano music
 
 This repo is to generate unique classical piano melodies using LSTM models with a dataset of piano works by well-known composers.
 Dataset should contain MIDI files.
